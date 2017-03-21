@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PlatformSpellCheck</id>
+    <version>1.0.0</version>
+    <title>Spell Check</title>
+    <authors>bbowyersmyth</authors>
+    <owners>bbowyersmyth</owners>
+    <licenseUrl>https://raw.githubusercontent.com/bbowyersmyth/SpellCheck/master/License.md</licenseUrl>
+    <projectUrl>http://github.com/bbowyersmyth/spellcheck</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Managed wrapper for the Microsoft Spell Checking API</description>
+    <summary>Managed wrapper for the Microsoft Spell Checking API</summary>
+    <releaseNotes>UserDictionariesRegistrar, LanguageTag, Add, and AutoCorrect</releaseNotes>
+    <tags>spell checker check spell-check spell-checker spellchecker spellcheck suggestion</tags>
+  </metadata>
+</package>
